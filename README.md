@@ -20,7 +20,8 @@ There were no challenges or difficulties encountered. Possible challenges and di
 
 ## Results
 
-Two conclusions drawn about the Outcomes based on Launch Date are May-June is the most successful time to launch and December is the least successful time to launch.
+One conclusion drawn about the Outcomes based on Launch Date are May-June is the most successful time to launch, this is demonstrated by the number of successful launches during that timeframe vs the number of unsuccessul.
+Another conclusion is December is the least successful time to launch because that time period has the least amount of successful launches.
 
 One conclusion drawn from the Outcomes based on Goals is Campaigns are only half as successful once they goal goes over $5000.
 
